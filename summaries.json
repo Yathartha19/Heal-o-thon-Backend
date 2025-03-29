@@ -1,0 +1,20 @@
+{
+    "summaries": [
+        {
+            "filename": "report4.pdf",
+            "summary": "April 05, 2023\n\nThe patient, a 52-year-old male, was evaluated for asthma and presented with insomnia tendencies and moderate stress levels. Key diagnoses include asthma, eczema, and mild anxiety. Treatment recommendations include increasing physical activity, following a balanced diet, practicing stress management techniques, and regular cardiovascular screenings."
+        },
+        {
+            "filename": "report2.pdf",
+            "summary": "January 03, 2025\nPatient 1265 was diagnosed with hypertension, which is likely exacerbated by a sedentary lifestyle and low stress levels. Key symptoms include irregular sleep patterns and mild anxiety during stressful events. The patient's physical examination revealed eczema without lesions or infections, and vision tests indicated normal acuity in both eyes. Treatment recommendations include increasing physical activity, following a balanced diet, practicing stress management techniques, and regular cardiovascular screenings."
+        },
+        {
+            "filename": "report3.pdf",
+            "summary": "May 18, 2021\n\nThe patient has diabetes and hypertension, with a family history suggesting genetic predisposition. Key symptoms include insomnia tendencies and low stress levels. Treatment recommendations include increasing physical activity, adopting a balanced diet, practicing stress management techniques, and regular cardiovascular screenings. The patient's vision is severely impaired due to color deficiency. Further evaluation by an ophthalmologist is advised."
+        },
+        {
+            "filename": "report1.pdf",
+            "summary": "June 30, 2023\n\nThe patient, a 65-year-old female with a history of coronary artery disease, presented with irregular sleep patterns and low stress levels. She has a family history of cancer, suggesting potential genetic predispositions. The patient's vision was found to be severely deficient in color vision with full field range, deemed unfit by the ophthalmologist. Treatment recommendations include increasing physical activity, adopting a balanced diet, practicing stress management techniques, and regular cardiovascular screenings."
+        }
+    ]
+}
